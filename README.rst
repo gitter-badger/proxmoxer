@@ -222,3 +222,8 @@ History
 .. |pypi_downloads| image:: https://pypip.in/d/proxmoxer/badge.png
     :target: https://crate.io/packages/proxmoxer
 
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/swayf/proxmoxer
+   :target: https://gitter.im/swayf/proxmoxer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
